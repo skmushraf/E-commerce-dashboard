@@ -28,4 +28,4 @@ Data Modeling – Relationship management and analysis.
 🚀 Project Goal
 The primary goal of this dashboard is to transform raw e-commerce transaction data into meaningful insights that help stakeholders understand business performance, identify growth opportunities, and make informed strategic decisions.
 
-snapshot of dashboard
+snapshot of dashboard- (https://github.com/skmushraf/E-commerce-dashboard/blob/main/Snapshot%20of%20dashboard.png)
