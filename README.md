@@ -18,6 +18,54 @@ Total Profit: ₹7.38 Million
 Rajasthan recorded the highest sales (~₹7.2M).
 Karnataka and Gujarat closely followed with approximately ₹7.1M each.
 Sales are relatively balanced among the top-performing states.
+3. Product Category Insights
+
+Sales are evenly distributed across categories:
+
+Electronics
+Clothing
+Home & Kitchen
+Beauty
+Sports
+
+Each category contributes roughly 20% of total sales, indicating a diversified revenue structure.
+
+4. Customer Payment Preferences
+
+Order volumes are almost equally distributed among:
+
+Cash on Delivery
+Credit Card
+Debit Card
+Net Banking
+UPI
+
+No single payment method dominates, suggesting customers prefer multiple payment options.
+
+5. Monthly Sales Trends
+Sales remain stable throughout the year.
+Peak sales occur during July and August.
+Seasonal fluctuations are minimal, indicating consistent demand.
+6. Top Revenue-Generating Products
+
+Leading products include:
+
+Tablet
+Smartphone
+Skin Cream
+Jeans
+Headphones
+Vacuum Cleaner
+Yoga Mat
+Makeup Kit
+Air Fryer
+Face Wash
+
+📈 Insights & Findings
+1.Revenue generation is well distributed across product categories and payment methods.
+2.Sales performance is geographically diverse, reducing dependence on a single state.
+3.The business experiences stable monthly revenue with slight peaks in mid-year months.
+4.Tablets and smartphones are among the highest-selling products, emphasizing strong demand in electronics.
 
 🛠 Tools Used
 📊Power BI – Data visualization and dashboard development.
